@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": "cafe-las-nubes",
-      "title": "Café las nubes",
+      "title": "Café las nubes de jinotega",
       "category": "web",
       "categoryLabel": "Página Web",
       "client": "Café Las Nubes",
@@ -35,4 +35,5 @@
   ]
 
 }
+
 
