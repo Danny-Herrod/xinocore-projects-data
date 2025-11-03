@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": "cafe-las-nubes",
-      "title": "Café las tierras",
+      "title": "Café las nubes",
       "category": "web",
       "categoryLabel": "Página Web",
       "client": "Café Las Nubes",
@@ -35,3 +35,4 @@
   ]
 
 }
+
