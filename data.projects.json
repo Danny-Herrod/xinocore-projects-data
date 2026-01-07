@@ -3,11 +3,15 @@
     {
       "id": "cafe-las-nubes",
       "title": "Café las nubes",
+      "title_en": "Café las nubes",
       "category": "web",
       "categoryLabel": "Página Web",
+      "categoryLabel_en": "Website",
       "client": "Café Las Nubes",
       "description": "Sitio web completo para cafetería artesanal especializada en café de altura de Jinotega.",
+      "description_en": "Complete website for artisan coffee shop specialized in high-altitude coffee from Jinotega.",
       "longDescription": "Desarrollamos un sitio web elegante y funcional para Café Las Nubes, una cafetería artesanal que destaca por su café de altura cultivado en las montañas de Jinotega. El sitio incluye galería de productos, sistema de menú digital, sección de historia del café, y formulario de reservas para eventos especiales.",
+      "longDescription_en": "We developed an elegant and functional website for Café Las Nubes, an artisan coffee shop that stands out for its high-altitude coffee grown in the mountains of Jinotega. The site includes a product gallery, digital menu system, coffee history section, and reservation form for special events.",
       "featured": true,
       "color": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
       "portada": "./assets/images/portfolio/1.jpg",
@@ -25,6 +29,14 @@
         "Integración con redes sociales",
         "Optimización SEO local"
       ],
+      "features_en": [
+        "Product gallery with filters",
+        "Interactive digital menu",
+        "Online reservation system",
+        "Coffee history and process",
+        "Social media integration",
+        "Local SEO optimization"
+      ],
       "images": [
         "nada"
       ],
@@ -33,8 +45,4 @@
       "contactUrl": ""
     }
   ]
-
 }
-
-
-
