@@ -2,40 +2,50 @@
   "projects": [
     {
       "id": "001",
-      "title": "WebCard Experience — María Luisa Rodríguez",
-      "title_en": "WebCard Experience — lic. María Luisa Rodríguezs",
+      "title": "WebCard Experience — Lic. María Luisa Rodríguez Pineda",
+      "title_en": "WebCard Experience — Lic. María Luisa Rodríguez Pineda",
       "category": "Tarjeta",
       "categoryLabel": "Tarjeta de presentación",
-      "categoryLabel_en": "Business Cards",
-      "client": "Lic. Maria Luisa Rodriguez",
-      "description": "Tarjeta física con QR que conecta a la abogada María Luisa Rodríguez con su perfil y servicios legales en la web.",
-      "description_en": "Physical card with a QR code that connects lawyer María Luisa Rodríguez to her profile and legal services on the web.",
-      "longDescription": "Hemos desarrollado una tarjeta de presentación física conectada a una experiencia web profesional mediante un código QR, diseñada para fortalecer la presencia digital de la abogada María Luisa Rodríguez y facilitar el contacto con nuevos clientes. El proyecto integra diseño gráfico y diseño web en una sola solución, permitiendo que una simple tarjeta se convierta en un punto de acceso inmediato a sus servicios legales, perfil profesional y canales de comunicación desde cualquier dispositivo móvil.",
-      "longDescription_en": "We have developed a physical business card connected to a professional web experience via a QR code, designed to strengthen lawyer María Luisa Rodríguez's digital presence and facilitate contact with new clients. The project integrates graphic design and web design into a single solution, allowing a simple card to become an immediate access point to her legal services, professional profile, and communication channels from any mobile device.",
+      "categoryLabel_en": "Business Card",
+      "client": "Lic. María Luisa Rodríguez Pineda",
+      "description": "Tarjeta de presentación física con código QR que conecta instantáneamente a una experiencia web profesional, mostrando perfil, trayectoria y contacto directo.",
+      "description_en": "Physical business card with QR code that instantly connects to a professional web experience, showcasing profile, career path, and direct contact.",
+      "longDescription": "Diseñamos una solución integral que fusiona lo físico con lo digital: una elegante tarjeta de presentación con código QR que dirige a una página web personalizada. Esta experiencia digital muestra el perfil profesional completo de la Lic. María Luisa Rodríguez Pineda, incluyendo su formación académica, títulos, reconocimientos y trayectoria en el ámbito jurídico. La página incluye un formulario de contacto integrado con WhatsApp para comunicación inmediata, además de enlaces directos a sus redes sociales donde comparte contenido jurídico educativo. Una tarjeta tradicional transformada en una herramienta de networking moderna y efectiva.",
+      "longDescription_en": "We designed a comprehensive solution that merges the physical with the digital: an elegant business card with a QR code that leads to a personalized website. This digital experience showcases the complete professional profile of Lic. María Luisa Rodríguez Pineda, including her academic background, degrees, awards, and career in the legal field. The page includes a contact form integrated with WhatsApp for immediate communication, plus direct links to her social media where she shares educational legal content. A traditional card transformed into a modern and effective networking tool.",
       "featured": true,
       "color": "#2e4b71",
       "portada": "https://github.com/Danny-Herrod/xinocore-projects-data/blob/main/tarjetasluisa.webp?raw=true",
-      "technologies": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Responsive Design"
+      "benefits": [
+        "Impresión profesional instantánea al entregar la tarjeta",
+        "Clientes pueden contactar directamente por WhatsApp",
+        "Perfil disponible 24/7 desde cualquier celular",
+        "Fácil de compartir y actualizar sin reimprimir tarjetas",
+        "Diferenciación frente a la competencia",
+        "Mayor tasa de conversión de contactos a clientes"
+      ],
+      "benefits_en": [
+        "Instant professional impression when handing out the card",
+        "Clients can contact directly via WhatsApp",
+        "Profile available 24/7 from any mobile device",
+        "Easy to share and update without reprinting cards",
+        "Differentiation from the competition",
+        "Higher conversion rate from contacts to clients"
       ],
       "features": [
-        "Tarjeta física con código QR integrado",
-        "Página web optimizada para dispositivos móviles",
-        "Presentación clara de servicios legales",
-        "Acceso rápido a contacto y ubicación",
-        "Diseño visual elegante y profesional",
-        "Experiencia enfocada en conversión de clientes"
+        "Tarjeta física premium con código QR integrado",
+        "Página web optimizada para móviles",
+        "Perfil profesional con títulos y reconocimientos",
+        "Trayectoria y experiencia profesional destacada",
+        "Formulario de contacto vía WhatsApp",
+        "Enlaces a TikTok y redes sociales"
       ],
       "features_en": [
-        "Physical card with integrated QR code",
-"Mobile-optimized website",
-"Clear presentation of legal services",
-"Quick access to contact and location",
-"Elegant and professional visual design",
-"Experience focused on client conversion"
+        "Premium physical card with integrated QR code",
+        "Mobile-optimized website",
+        "Professional profile with degrees and awards",
+        "Highlighted career path and experience",
+        "WhatsApp contact form",
+        "Links to TikTok and social media"
       ],
       "images": [
         "https://github.com/Danny-Herrod/xinocore-projects-data/blob/main/tarjetasluisa.webp?raw=true"
@@ -46,7 +56,3 @@
     }
   ]
 }
-
-
-
-
