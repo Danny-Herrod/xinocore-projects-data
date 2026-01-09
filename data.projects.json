@@ -1,20 +1,20 @@
 {
   "projects": [
     {
-      "id": "cafe-las-nubes",
-      "title": "Café las nubes",
-      "title_en": "Café las nubes",
-      "category": "web",
-      "categoryLabel": "Página Web",
-      "categoryLabel_en": "Website",
-      "client": "Café Las Nubes",
-      "description": "Sitio web completo para cafetería artesanal especializada en café de altura de Jinotega.",
-      "description_en": "Complete website for artisan coffee shop specialized in high-altitude coffee from Jinotega.",
-      "longDescription": "Desarrollamos un sitio web elegante y funcional para Café Las Nubes, una cafetería artesanal que destaca por su café de altura cultivado en las montañas de Jinotega. El sitio incluye galería de productos, sistema de menú digital, sección de historia del café, y formulario de reservas para eventos especiales.",
-      "longDescription_en": "We developed an elegant and functional website for Café Las Nubes, an artisan coffee shop that stands out for its high-altitude coffee grown in the mountains of Jinotega. The site includes a product gallery, digital menu system, coffee history section, and reservation form for special events.",
+      "id": "001",
+      "title": "WebCard Experience — María Luisa Rodríguez",
+      "title_en": "WebCard Experience — lic. María Luisa Rodríguezs",
+      "category": "Tarjeta",
+      "categoryLabel": "Tarjeta de precentacion",
+      "categoryLabel_en": "Business Cards",
+      "client": "Lic. Maria Luisa Rodriguez",
+      "description": "Tarjeta física con QR que conecta a la abogada María Luisa Rodríguez con su perfil y servicios legales en la web.",
+      "description_en": "Physical card with a QR code that connects lawyer María Luisa Rodríguez to her profile and legal services on the web.",
+      "longDescription": "Hemos desarrollado una tarjeta de presentación física conectada a una experiencia web profesional mediante un código QR, diseñada para fortalecer la presencia digital de la abogada María Luisa Rodríguez y facilitar el contacto con nuevos clientes. El proyecto integra diseño gráfico y diseño web en una sola solución, permitiendo que una simple tarjeta se convierta en un punto de acceso inmediato a sus servicios legales, perfil profesional y canales de comunicación desde cualquier dispositivo móvil.",
+      "longDescription_en": "We have developed a physical business card connected to a professional web experience via a QR code, designed to strengthen lawyer María Luisa Rodríguez's digital presence and facilitate contact with new clients. The project integrates graphic design and web design into a single solution, allowing a simple card to become an immediate access point to her legal services, professional profile, and communication channels from any mobile device.",
       "featured": true,
-      "color": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-      "portada": "./assets/images/portfolio/1.jpg",
+      "color": "#2e4b71",
+      "portada": "https://github.com/Danny-Herrod/xinocore-projects-data/blob/main/tarjetasluisa.webp?raw=true",
       "technologies": [
         "HTML5",
         "CSS3",
@@ -22,27 +22,28 @@
         "Responsive Design"
       ],
       "features": [
-        "Galería de productos con filtros",
-        "Menú digital interactivo",
-        "Sistema de reservas en línea",
-        "Historia y proceso del café",
-        "Integración con redes sociales",
-        "Optimización SEO local"
+        "Tarjeta física con código QR integrado",
+        "Página web optimizada para dispositivos móviles",
+        "Presentación clara de servicios legales",
+        "Acceso rápido a contacto y ubicación",
+        "Diseño visual elegante y profesional",
+        "Experiencia enfocada en conversión de clientes"
       ],
       "features_en": [
-        "Product gallery with filters",
-        "Interactive digital menu",
-        "Online reservation system",
-        "Coffee history and process",
-        "Social media integration",
-        "Local SEO optimization"
+        "Physical card with integrated QR code",
+"Mobile-optimized website",
+"Clear presentation of legal services",
+"Quick access to contact and location",
+"Elegant and professional visual design",
+"Experience focused on client conversion"
       ],
       "images": [
         "nada"
       ],
-      "year": "2024",
-      "url": "https://youtube.com",
+      "year": "2025",
+      "url": "https://lic-maria-luisa.xinocore.com/m",
       "contactUrl": ""
     }
   ]
 }
+
